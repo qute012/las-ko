@@ -3,4 +3,5 @@ SpecAugment와 Listen, Attend and Spell(https://arxiv.org/pdf/1508.01211.pdf) Ai
 
 # Reference
 https://github.com/sooftware/KoSpeech
+
 https://github.com/zcaceres/spec_augment
